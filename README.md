@@ -1,0 +1,2 @@
+# Python_Flask_Web_Basic
+Pythonにおける基本的なWeb表示をするプログラムの公開
